@@ -1,0 +1,17 @@
+How to use this template
+
+- Adjust Titles
+1. To adjust your title and type anything double-clik on the text layer inside the composition and type.
+2. To change the fonts highlight double-click again on the text layer, highlight the text and go on the Character tab. (Window>Character)
+
+- Adjust Colors
+1. To adjust the colors highlight the first layer Color Controls and on the "Effects Controls" adjust the colors. 
+2. To adjust the colors of the texts, highlight the text layer (or all at once) and on the Character tab, change the color. 
+
+- Adjust Scene
+1. To hide or remove the background unhide all the hidden layers by clicking the Shy Button (Top of the timeline). Then go to the last in the order layer and delete or hide it.
+2. Also you can delete or hide the elements of the scene.
+
+- Adjust Duration
+All the compositions have Responsive Design Time. To use this feature, drag and drop any of the premade compositions into a new one (or the one you're currently working on).
+The blue areas in the composition represent the In and Out animations. You can adjust the duration of these animations by dragging the edges of the composition as a layer.
